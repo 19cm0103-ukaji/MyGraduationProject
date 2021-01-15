@@ -15,6 +15,10 @@
 		7F0FC04525B1304300B6481B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7F0FC04325B1304300B6481B /* LaunchScreen.storyboard */; };
 		7F0FC05025B1304400B6481B /* MyGraduationProjectTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F0FC04F25B1304400B6481B /* MyGraduationProjectTests.swift */; };
 		7F0FC05B25B1304400B6481B /* MyGraduationProjectUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F0FC05A25B1304400B6481B /* MyGraduationProjectUITests.swift */; };
+		7F0FC06C25B130DC00B6481B /* mine.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F0FC06B25B130DC00B6481B /* mine.swift */; };
+		7F0FC07125B1314A00B6481B /* group.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F0FC07025B1314A00B6481B /* group.swift */; };
+		7F0FC07625B1316300B6481B /* Setting.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F0FC07525B1316300B6481B /* Setting.swift */; };
+		7F0FC07B25B1317000B6481B /* LogIn.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F0FC07A25B1317000B6481B /* LogIn.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +53,10 @@
 		7F0FC05625B1304400B6481B /* MyGraduationProjectUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MyGraduationProjectUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		7F0FC05A25B1304400B6481B /* MyGraduationProjectUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyGraduationProjectUITests.swift; sourceTree = "<group>"; };
 		7F0FC05C25B1304400B6481B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7F0FC06B25B130DC00B6481B /* mine.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = mine.swift; sourceTree = "<group>"; };
+		7F0FC07025B1314A00B6481B /* group.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = group.swift; sourceTree = "<group>"; };
+		7F0FC07525B1316300B6481B /* Setting.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Setting.swift; sourceTree = "<group>"; };
+		7F0FC07A25B1317000B6481B /* LogIn.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LogIn.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +110,10 @@
 				7F0FC03825B1303F00B6481B /* AppDelegate.swift */,
 				7F0FC03A25B1303F00B6481B /* SceneDelegate.swift */,
 				7F0FC03C25B1303F00B6481B /* ContentView.swift */,
+				7F0FC06B25B130DC00B6481B /* mine.swift */,
+				7F0FC07025B1314A00B6481B /* group.swift */,
+				7F0FC07525B1316300B6481B /* Setting.swift */,
+				7F0FC07A25B1317000B6481B /* LogIn.swift */,
 				7F0FC03E25B1304300B6481B /* Assets.xcassets */,
 				7F0FC04325B1304300B6481B /* LaunchScreen.storyboard */,
 				7F0FC04625B1304300B6481B /* Info.plist */,
@@ -268,6 +280,10 @@
 			files = (
 				7F0FC03925B1303F00B6481B /* AppDelegate.swift in Sources */,
 				7F0FC03B25B1303F00B6481B /* SceneDelegate.swift in Sources */,
+				7F0FC07625B1316300B6481B /* Setting.swift in Sources */,
+				7F0FC07B25B1317000B6481B /* LogIn.swift in Sources */,
+				7F0FC06C25B130DC00B6481B /* mine.swift in Sources */,
+				7F0FC07125B1314A00B6481B /* group.swift in Sources */,
 				7F0FC03D25B1303F00B6481B /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
